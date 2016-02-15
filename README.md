@@ -18,3 +18,6 @@ Slide Directions: Left/Right
   	  next: '.next', // next button selector
   	  prev: '.prev' // previous button selector
   	});
+
+<b>Demo</b><br>
+See demo.html
